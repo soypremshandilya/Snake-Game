@@ -53,7 +53,7 @@ def move_snake(self):
 ---
 
 ## Screenshot  
-*(Add a screenshot of your game here)*  
+*Screenshots from the game* 
 ![Snake Game](assets/Screenshot1.jpg)
 ![Snake Game](assets/Screenshot2.jpg)  
 
