@@ -35,23 +35,6 @@ A simple **Snake Game** built using Python and `tkinter`. Navigate the snake to 
 
 ---
 
-## Code Preview  
-
-```python
-# Move the snake
-def move_snake(self):
-    head_x, head_y = self.snake[0]
-    move_x, move_y = DIRECTIONS[self.direction]
-    new_head = (head_x + move_x, head_y + move_y)
-
-    if new_head in self.snake or ... :
-        self.running = False
-        return
-    self.snake.insert(0, new_head)
-```
-
----
-
 ## Screenshot  
 ![Snake Game](assets/Screenshot1.jpg)
 ![Snake Game](assets/Screenshot2.jpg)  
